@@ -1,0 +1,101 @@
+Transaction ID,User ID,Age,"Location (City, Country)",IP Address,Time of Transaction,Day of the Week,Price ($),Payment Method,Transaction Category,Consecutive Expensive Purchases Flag,Typing Speed (wpm),Mouse Movements,Multi-Factor Authentication Used,Online Card Info Leaks Detected,Cashback Usage (%),Impulsive Purchase Flag,User Naivety Score,Bank Phishing Test Passed,Social Media Activity Level,Fraud Flag
+T001,7,25,"Tokyo, Japan",147.48.208.131,2023-01-01 00:00:00,Monday,1896.16,Swipe,Dining,No,30,Normal,No,No,8.2,No,3,No,Low,0
+T002,20,31,"Tokyo, Japan",148.152.54.120,2023-01-01 01:00:00,Sunday,3528.37,Online,Electronics,No,93,Normal,Yes,Yes,2.29,No,2,No,Low,0
+T003,29,40,"Tokyo, Japan",161.152.116.75,2023-01-01 02:00:00,Friday,1251.13,Tap,Groceries,No,57,Normal,No,No,9.09,Yes,8,Yes,Medium,1
+T004,15,57,"Paris, France",113.200.164.166,2023-01-01 03:00:00,Sunday,1657.96,Crypto,Entertainment,No,25,Normal,Yes,No,0.01,No,5,Yes,High,0
+T005,11,38,"London, UK",104.84.254.227,2023-01-01 04:00:00,Monday,2177.91,Online,Electronics,No,91,Normal,No,No,5.56,No,1,Yes,High,0
+T006,8,33,"Tokyo, Japan",112.254.217.99,2023-01-01 05:00:00,Wednesday,1275.87,Mobile Wallet,Electronics,Yes,42,Normal,No,Yes,7.57,No,3,No,Low,1
+T007,29,62,"New York, USA",153.93.146.128,2023-01-01 06:00:00,Monday,2031.96,Crypto,Luxury,No,66,Normal,Yes,No,2.59,No,8,Yes,High,0
+T008,21,35,"New York, USA",110.82.194.54,2023-01-01 07:00:00,Saturday,2861.65,Crypto,Dining,No,65,Normal,No,No,1.93,No,4,Yes,Medium,0
+T009,7,64,"New York, USA",163.208.189.169,2023-01-01 08:00:00,Monday,3707.46,Insert,Entertainment,No,31,Normal,Yes,No,0.84,No,7,No,Medium,0
+T010,26,41,"New York, USA",228.161.68.33,2023-01-01 09:00:00,Monday,3838.3,Tap,Travel,No,32,Normal,No,No,3.26,No,2,Yes,Low,0
+T011,19,43,"Paris, France",142.21.48.148,2023-01-01 10:00:00,Saturday,4115.72,Tap,Travel,Yes,81,Erratic,Yes,No,5.6,No,7,Yes,Medium,0
+T012,23,42,"New York, USA",248.128.136.135,2023-01-01 11:00:00,Thursday,3723.62,Mobile Wallet,Groceries,No,79,Normal,Yes,No,1.16,No,5,Yes,Low,0
+T013,11,62,"Tokyo, Japan",195.145.128.33,2023-01-01 12:00:00,Monday,3408.39,Mobile Wallet,Entertainment,No,62,Erratic,Yes,No,3.77,No,5,Yes,Medium,0
+T014,11,58,"Berlin, Germany",176.204.187.115,2023-01-01 13:00:00,Saturday,1195.16,Crypto,Travel,No,95,Automated,Yes,Yes,0.09,No,6,Yes,Low,1
+T015,24,46,"New York, USA",214.119.22.238,2023-01-01 14:00:00,Friday,2007.11,Swipe,Groceries,Yes,87,Erratic,Yes,No,8.19,Yes,9,Yes,High,1
+T016,21,32,"Paris, France",158.38.230.109,2023-01-01 15:00:00,Wednesday,2393.8,Insert,Dining,No,24,Erratic,No,No,1.28,Yes,6,Yes,Medium,0
+T017,4,62,"Paris, France",51.182.8.27,2023-01-01 16:00:00,Wednesday,423.63,Insert,Groceries,No,56,Normal,No,No,2.83,No,8,Yes,Medium,0
+T018,8,18,"New York, USA",27.226.21.30,2023-01-01 17:00:00,Monday,2646.57,Crypto,Travel,Yes,91,Normal,No,No,0.18,Yes,7,No,Low,1
+T019,24,42,"Berlin, Germany",97.28.111.192,2023-01-01 18:00:00,Thursday,2187.32,Online,Luxury,No,50,Normal,Yes,No,4.32,No,9,Yes,Low,0
+T020,3,24,"New York, USA",225.197.252.61,2023-01-01 19:00:00,Thursday,4012.53,Swipe,Luxury,Yes,28,Normal,Yes,No,8.4,Yes,4,No,Medium,0
+T021,22,26,"Paris, France",48.147.4.35,2023-01-01 20:00:00,Friday,4889.72,Crypto,Luxury,Yes,70,Normal,Yes,No,3.92,No,2,Yes,Low,0
+T022,21,41,"London, UK",192.49.17.172,2023-01-01 21:00:00,Monday,2784.47,Swipe,Travel,No,48,Normal,Yes,No,1.79,No,7,No,Medium,0
+T023,2,18,"Tokyo, Japan",220.158.221.46,2023-01-01 22:00:00,Wednesday,1620.21,Swipe,Luxury,No,97,Normal,Yes,No,7.54,No,6,Yes,High,0
+T024,24,61,"Paris, France",117.6.99.124,2023-01-01 23:00:00,Thursday,226.57,Swipe,Entertainment,No,59,Normal,Yes,No,7.89,Yes,1,Yes,Low,0
+T025,12,25,"New York, USA",233.37.24.93,2023-01-02 00:00:00,Monday,4623.97,Crypto,Dining,No,60,Erratic,No,No,1.74,No,9,Yes,Medium,0
+T026,6,41,"Tokyo, Japan",241.46.181.95,2023-01-02 01:00:00,Sunday,4596.39,Insert,Groceries,No,30,Normal,Yes,No,7.71,No,9,No,High,0
+T027,2,28,"New York, USA",99.188.225.116,2023-01-02 02:00:00,Thursday,1272.42,Insert,Groceries,No,42,Normal,Yes,No,9.47,Yes,2,Yes,High,0
+T028,28,68,"New York, USA",191.253.213.160,2023-01-02 03:00:00,Saturday,3480.1,Swipe,Travel,No,20,Erratic,Yes,Yes,1.66,No,3,Yes,Medium,0
+T029,21,34,"London, UK",215.161.67.128,2023-01-02 04:00:00,Sunday,386.42,Online,Luxury,No,65,Automated,Yes,No,7.71,No,5,Yes,Low,1
+T030,1,25,"Tokyo, Japan",18.25.234.223,2023-01-02 05:00:00,Thursday,839.42,Tap,Luxury,No,40,Normal,Yes,No,7.09,No,5,No,Medium,0
+T031,12,52,"Tokyo, Japan",54.58.67.104,2023-01-02 06:00:00,Wednesday,1091.88,Crypto,Electronics,No,55,Erratic,No,No,4.74,No,1,Yes,High,0
+T032,26,52,"London, UK",174.24.114.32,2023-01-02 07:00:00,Tuesday,1479.52,Tap,Dining,No,73,Automated,Yes,No,0.58,Yes,8,Yes,Medium,1
+T033,22,50,"Paris, France",175.86.151.194,2023-01-02 08:00:00,Sunday,4979.2,Online,Entertainment,No,76,Erratic,Yes,No,0.75,No,8,Yes,Low,0
+T034,29,22,"New York, USA",127.155.234.130,2023-01-02 09:00:00,Friday,3487.66,Crypto,Groceries,No,20,Normal,Yes,Yes,8.52,No,4,No,High,0
+T035,12,59,"Berlin, Germany",218.17.104.161,2023-01-02 10:00:00,Friday,1927.17,Swipe,Electronics,Yes,82,Normal,No,No,9.9,Yes,7,Yes,Medium,1
+T036,25,56,"New York, USA",137.43.246.176,2023-01-02 11:00:00,Wednesday,3688.13,Insert,Electronics,No,73,Normal,No,Yes,6.76,No,3,Yes,Low,1
+T037,17,58,"New York, USA",39.221.170.247,2023-01-02 12:00:00,Thursday,4577.12,Tap,Travel,No,74,Normal,No,No,4.46,No,6,Yes,High,1
+T038,27,45,"Paris, France",26.99.50.153,2023-01-02 13:00:00,Monday,4793.93,Mobile Wallet,Groceries,Yes,59,Normal,Yes,No,6.48,Yes,9,Yes,Low,1
+T039,27,24,"New York, USA",152.13.60.250,2023-01-02 14:00:00,Thursday,298.74,Mobile Wallet,Travel,Yes,34,Normal,Yes,No,5.94,No,1,Yes,High,0
+T040,10,26,"London, UK",135.57.36.173,2023-01-02 15:00:00,Wednesday,1978.66,Online,Entertainment,No,40,Erratic,Yes,No,3.84,No,5,Yes,Medium,0
+T041,28,25,"London, UK",20.65.8.238,2023-01-02 16:00:00,Friday,542.71,Swipe,Electronics,No,66,Normal,No,No,0.66,No,4,Yes,Low,0
+T042,28,29,"Tokyo, Japan",144.142.204.115,2023-01-02 17:00:00,Thursday,1684.94,Tap,Electronics,No,92,Erratic,No,No,8.22,No,8,Yes,High,0
+T043,16,51,"Berlin, Germany",215.143.92.98,2023-01-02 18:00:00,Friday,856.7,Swipe,Dining,Yes,72,Normal,Yes,No,3.72,Yes,1,Yes,Low,0
+T044,15,50,"New York, USA",66.32.215.191,2023-01-02 19:00:00,Sunday,3237.77,Tap,Entertainment,No,28,Normal,No,No,8.19,No,9,Yes,Low,0
+T045,15,65,"New York, USA",86.51.153.186,2023-01-02 20:00:00,Monday,1947.46,Online,Electronics,No,93,Erratic,No,No,2.53,No,6,Yes,Medium,0
+T046,19,40,"Paris, France",63.190.125.150,2023-01-02 21:00:00,Sunday,1154.68,Online,Entertainment,Yes,71,Normal,Yes,No,0.01,No,4,Yes,Low,0
+T047,12,41,"London, UK",58.58.86.49,2023-01-02 22:00:00,Friday,1337.03,Mobile Wallet,Groceries,Yes,76,Normal,No,No,1.59,No,9,Yes,High,1
+T048,23,54,"Berlin, Germany",180.170.70.15,2023-01-02 23:00:00,Friday,1808.12,Swipe,Luxury,No,45,Erratic,No,No,4.69,No,5,Yes,High,0
+T049,20,52,"Tokyo, Japan",54.235.188.101,2023-01-03 00:00:00,Tuesday,1307.15,Crypto,Electronics,No,60,Normal,Yes,No,9.44,No,5,Yes,High,0
+T050,25,61,"London, UK",225.8.53.60,2023-01-03 01:00:00,Tuesday,2271.67,Mobile Wallet,Dining,No,54,Normal,Yes,No,1.02,No,5,Yes,High,0
+T051,3,57,"Tokyo, Japan",236.108.5.103,2023-01-03 02:00:00,Sunday,171.26,Swipe,Groceries,No,82,Erratic,Yes,No,8.54,No,1,Yes,Medium,0
+T052,5,39,"Paris, France",196.6.109.224,2023-01-03 03:00:00,Saturday,1406.02,Mobile Wallet,Entertainment,No,44,Normal,Yes,No,5.27,No,1,Yes,Low,0
+T053,19,44,"Paris, France",116.94.47.99,2023-01-03 04:00:00,Sunday,2061.92,Crypto,Travel,No,94,Normal,Yes,Yes,8.26,No,8,No,Medium,0
+T054,7,52,"New York, USA",55.168.52.144,2023-01-03 05:00:00,Tuesday,3017.88,Insert,Groceries,No,57,Normal,Yes,No,2.98,No,8,Yes,Low,0
+T055,21,18,"Berlin, Germany",13.114.124.106,2023-01-03 06:00:00,Friday,1362.08,Insert,Electronics,No,21,Erratic,No,No,8.4,Yes,6,Yes,Low,0
+T056,9,52,"Tokyo, Japan",158.147.145.120,2023-01-03 07:00:00,Wednesday,674.59,Insert,Entertainment,No,26,Normal,Yes,No,7.73,Yes,4,Yes,Low,0
+T057,7,54,"London, UK",63.19.92.58,2023-01-03 08:00:00,Sunday,390.24,Insert,Luxury,No,53,Automated,Yes,No,2.3,No,2,Yes,Medium,1
+T058,18,64,"Paris, France",183.90.229.218,2023-01-03 09:00:00,Friday,4703.25,Tap,Groceries,No,36,Normal,Yes,No,1.31,No,2,Yes,Low,0
+T059,4,31,"New York, USA",117.62.23.127,2023-01-03 10:00:00,Wednesday,2089.03,Insert,Electronics,No,62,Normal,Yes,No,8.68,No,9,Yes,Medium,0
+T060,25,20,"New York, USA",137.140.245.129,2023-01-03 11:00:00,Wednesday,2910.0,Crypto,Dining,No,78,Normal,No,Yes,9.63,No,5,Yes,High,1
+T061,28,18,"Tokyo, Japan",58.122.1.239,2023-01-03 12:00:00,Tuesday,4596.69,Online,Travel,No,70,Automated,Yes,No,0.31,No,4,Yes,High,1
+T062,14,22,"Paris, France",34.96.126.118,2023-01-03 13:00:00,Sunday,422.91,Online,Entertainment,No,73,Normal,Yes,Yes,7.31,No,1,Yes,Low,0
+T063,18,43,"Berlin, Germany",48.89.232.237,2023-01-03 14:00:00,Thursday,4384.54,Tap,Groceries,No,43,Normal,Yes,No,9.1,No,7,Yes,Medium,0
+T064,26,31,"Paris, France",117.129.16.189,2023-01-03 15:00:00,Monday,2762.42,Insert,Groceries,No,44,Normal,No,No,8.57,No,3,No,High,0
+T065,9,56,"Tokyo, Japan",231.192.191.69,2023-01-03 16:00:00,Tuesday,832.52,Insert,Luxury,No,90,Normal,No,No,9.65,No,6,Yes,Medium,0
+T066,26,44,"Tokyo, Japan",22.93.247.195,2023-01-03 17:00:00,Tuesday,2062.16,Insert,Luxury,No,71,Normal,Yes,No,7.6,No,5,No,Medium,0
+T067,21,26,"Paris, France",76.154.144.179,2023-01-03 18:00:00,Thursday,3890.24,Mobile Wallet,Dining,Yes,89,Normal,Yes,No,4.42,No,5,Yes,Low,0
+T068,2,32,"Tokyo, Japan",229.86.185.29,2023-01-03 19:00:00,Monday,2407.05,Swipe,Travel,No,52,Normal,Yes,Yes,3.12,Yes,5,Yes,High,0
+T069,20,32,"Paris, France",206.220.69.47,2023-01-03 20:00:00,Friday,4926.58,Mobile Wallet,Dining,No,68,Normal,Yes,No,3.21,Yes,1,Yes,Low,0
+T070,28,43,"London, UK",241.94.238.190,2023-01-03 21:00:00,Saturday,1889.93,Swipe,Electronics,No,48,Normal,Yes,Yes,7.24,Yes,1,Yes,Low,0
+T071,15,59,"Paris, France",244.197.204.144,2023-01-03 22:00:00,Sunday,3750.4,Insert,Electronics,Yes,82,Normal,Yes,No,7.46,No,3,No,High,0
+T072,28,30,"Paris, France",218.218.176.85,2023-01-03 23:00:00,Saturday,1971.02,Insert,Dining,No,41,Normal,Yes,No,2.0,No,4,Yes,High,0
+T073,7,68,"Tokyo, Japan",39.100.33.254,2023-01-04 00:00:00,Friday,4147.53,Mobile Wallet,Travel,No,45,Erratic,Yes,No,8.68,No,5,No,Medium,0
+T074,12,49,"Tokyo, Japan",222.101.23.250,2023-01-04 01:00:00,Tuesday,2849.72,Mobile Wallet,Dining,No,47,Normal,No,No,7.15,No,2,Yes,High,0
+T075,29,56,"New York, USA",10.246.69.100,2023-01-04 02:00:00,Monday,326.92,Swipe,Travel,No,68,Normal,Yes,No,5.63,Yes,8,No,Medium,1
+T076,8,66,"New York, USA",34.180.223.138,2023-01-04 03:00:00,Tuesday,193.74,Online,Travel,No,90,Erratic,Yes,Yes,4.72,No,2,Yes,Medium,0
+T077,15,69,"London, UK",250.147.186.96,2023-01-04 04:00:00,Wednesday,677.92,Swipe,Entertainment,Yes,68,Normal,Yes,No,5.43,Yes,9,Yes,Medium,1
+T078,3,49,"New York, USA",1.248.69.237,2023-01-04 05:00:00,Tuesday,78.22,Mobile Wallet,Travel,No,39,Erratic,Yes,No,1.59,No,2,Yes,High,0
+T079,14,21,"Paris, France",4.16.24.80,2023-01-04 06:00:00,Tuesday,386.04,Crypto,Luxury,No,82,Normal,No,No,2.04,Yes,9,Yes,Low,1
+T080,17,47,"Tokyo, Japan",247.2.241.220,2023-01-04 07:00:00,Friday,3461.65,Mobile Wallet,Travel,No,80,Normal,Yes,No,0.91,No,7,Yes,Medium,0
+T081,4,54,"New York, USA",128.160.219.84,2023-01-04 08:00:00,Friday,2676.39,Crypto,Travel,Yes,68,Normal,Yes,No,1.54,Yes,8,Yes,Low,1
+T082,18,40,"New York, USA",152.140.178.163,2023-01-04 09:00:00,Friday,3752.05,Tap,Travel,No,90,Normal,No,No,4.54,No,2,No,Low,0
+T083,8,56,"London, UK",124.33.161.189,2023-01-04 10:00:00,Saturday,4566.7,Mobile Wallet,Electronics,No,20,Normal,Yes,No,5.3,No,7,Yes,High,0
+T084,4,62,"London, UK",179.171.101.12,2023-01-04 11:00:00,Wednesday,2929.9,Tap,Luxury,No,32,Normal,Yes,No,0.18,No,6,Yes,Low,0
+T085,2,32,"Paris, France",67.65.161.168,2023-01-04 12:00:00,Friday,3633.34,Online,Luxury,No,70,Normal,No,No,7.97,No,4,Yes,Low,1
+T086,6,60,"Tokyo, Japan",74.43.44.29,2023-01-04 13:00:00,Monday,3787.84,Swipe,Dining,No,75,Normal,Yes,No,2.94,No,7,Yes,High,0
+T087,22,46,"London, UK",141.12.95.46,2023-01-04 14:00:00,Saturday,1895.47,Crypto,Entertainment,Yes,81,Normal,Yes,No,9.12,No,4,Yes,Medium,0
+T088,10,53,"New York, USA",130.253.243.242,2023-01-04 15:00:00,Thursday,1213.01,Swipe,Travel,No,51,Normal,No,No,9.68,No,2,Yes,Low,0
+T089,4,30,"Tokyo, Japan",35.215.81.90,2023-01-04 16:00:00,Monday,1033.18,Tap,Groceries,Yes,49,Normal,Yes,No,1.85,No,7,Yes,High,0
+T090,22,49,"Tokyo, Japan",8.93.154.202,2023-01-04 17:00:00,Sunday,1264.7,Crypto,Entertainment,No,48,Normal,Yes,No,4.62,No,8,Yes,Low,0
+T091,29,24,"New York, USA",90.254.162.115,2023-01-04 18:00:00,Sunday,1380.91,Swipe,Entertainment,No,68,Normal,Yes,No,0.01,No,2,Yes,Low,0
+T092,18,68,"London, UK",105.135.196.58,2023-01-04 19:00:00,Monday,1044.07,Mobile Wallet,Luxury,Yes,64,Normal,No,No,5.98,Yes,5,Yes,Medium,1
+T093,26,39,"New York, USA",245.114.237.75,2023-01-04 20:00:00,Friday,4392.32,Insert,Entertainment,No,49,Erratic,Yes,No,6.07,No,1,Yes,Low,0
+T094,12,45,"Tokyo, Japan",157.120.164.217,2023-01-04 21:00:00,Thursday,3787.43,Tap,Travel,No,35,Normal,Yes,No,2.48,No,7,Yes,High,0
+T095,2,19,"Berlin, Germany",21.253.249.164,2023-01-04 22:00:00,Thursday,244.01,Swipe,Travel,No,59,Normal,Yes,No,5.58,No,8,Yes,Low,0
+T096,10,59,"Berlin, Germany",138.101.201.152,2023-01-04 23:00:00,Saturday,1350.68,Tap,Electronics,No,38,Normal,Yes,No,2.26,No,6,Yes,Medium,0
+T097,4,62,"Paris, France",192.227.177.99,2023-01-05 00:00:00,Thursday,120.7,Tap,Travel,No,37,Normal,Yes,No,1.61,No,5,Yes,Medium,0
+T098,14,23,"New York, USA",240.36.210.241,2023-01-05 01:00:00,Sunday,2495.84,Crypto,Travel,No,20,Automated,Yes,No,6.52,No,6,No,High,1
+T099,16,45,"New York, USA",231.96.152.151,2023-01-05 02:00:00,Wednesday,2386.29,Crypto,Luxury,No,97,Normal,Yes,No,3.26,Yes,2,Yes,Medium,0
+T100,15,45,"Paris, France",190.224.37.12,2023-01-05 03:00:00,Friday,4158.54,Insert,Travel,No,66,Normal,Yes,Yes,5.9,No,1,No,Low,0
